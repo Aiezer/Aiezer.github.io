@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(0, 161, 215);
+    margin: 0%;
+    }
+p {
+    font-size: 20px;
+}
+h3 {
+    font-size: 20px;
+}
+#inicio {
+    background-color: rgb(21, 28, 72);
+    color: white;    
+    padding: 25px 20%;
+    text-align: center;
+    
+}
+#indice {
+    background-color: rgb(112, 194, 232);
+    color: white;
+    padding: 25px 40%;
+}
